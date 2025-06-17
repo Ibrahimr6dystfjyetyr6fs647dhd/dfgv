@@ -1,0 +1,24 @@
+{
+    "musk": {
+      "plate": "G2RS25",
+      "ID" : "CIN0000",
+      "PERMIT" : "NA19KL2"
+    },
+    "rahimi": {
+      "plate": "OYCD",
+      "ID" : "CIN1111",
+      "PERMIT" : "P12E21"
+    },
+    "zuckerberg": {
+      "plate": "X3P1W18",
+      "ID" : "CIN2222",
+      "PERMIT" : "t34test5"
+    },
+    "moubarik": {
+      "plate": "MD20EX25",
+      "ID" : "CIN33333",
+      "PERMIT" : "nul"
+    }
+
+  }
+  
